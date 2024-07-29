@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1 style="text-align:center;font-size:400%;font-family:timesnewroman;background:grey;color:white;">My Account</h1>
+
+
+
+<form action="/action_page.php/">
+<label for="fname"><b>Name*</b></label></br>
+<input type="text"id="fname"name="fname"value=" "></br></br>
+<label for="lname"><b>E-mail address*</b></label></br>
+<input type="text"id="fname"name="fname"value=" "></br></br>
+<label for="lname"><b>Mobile Number*<b></label></br>
+<input type="text"id="fname"name="fname"value=" "></br></br>
+<button>login</button>
+<button>Forget Password?</button>
+
+
+
+<h3 style="text-align:center;font-size:200%;font-family:timesnewroman;background:grey;color:white;">Contact us</h3>
+<p  style="font-size:100%;font-family:timesnewroman;"><strong>Mail:     abcd@gmail.com<strong></p>
+<p  style="font-size:100%;font-family:timesnewroman;"><strong>Phone:     03XX-XXXXXXX <strong></p>
+<p  style="font-size:100%;font-family:timesnewroman;"><strong>Address:     4th floor law consultant tower opposite to IDC, F8 Markaz, Islamabad<strong></p>
+<a href="https://www.google.com/maps/@33.7114139,73.0402412,18z/"> Visit Google map.com for address!</a>
+</form>
+</body>
+</html>

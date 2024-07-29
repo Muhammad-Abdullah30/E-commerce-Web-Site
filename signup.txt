@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+<link rel="stylesheet" href="signup.css">
+</style>
+</head>
+<body>
+<h1 style="text-align:center;font-size:400%;font-family:timesnewroman;background:grey;color:white;">Create New Account</h1>
+
+
+
+<form action="/action_page.php/">
+<label for="fname"><b>First Name*</b></label></br>
+<input type="text"id="fname"name="fname"value=" "></br></br>
+<label for="fname"><b>Last Name*</b></label></br>
+<input type="text"id="fname"name="fname"value=" "></br></br>
+<label for="lname"><b>E-mail address*</b></label></br>
+<input type="text"id="fname"name="fname"value=" "></br></br>
+<label for="lname"><b>Mobile Number*<b></label></br>
+<input type="text"id="fname"name="fname"value=" "></br></br>
+<label for="lname"><b>Password*<b></label></br>
+<input type="text"id="fname"name="fname"value=" "></br></br>
+<label for="lname"><b>Confirm Password*<b></label></br>
+<input type="text"id="fname"name="fname"value=" "></br></br>
+<button>Sign up</button>
+
+
+
+
+<h3 style="text-align:center;font-size:200%;font-family:timesnewroman;background:grey;color:white;">Contact us</h3>
+<p  style="font-size:100%;font-family:timesnewroman;backgound:black;color:white"><strong>Mail:     abcd@gmail.com<strong></p>
+<p  style="font-size:100%;font-family:timesnewroman;backgound:black;color:white"><strong>Phone:    03XX-XXXXXXX<strong></p>
+<p  style="font-size:100%;font-family:timesnewroman;backgound:black;color:white"><strong>Address:     4th floor law consultant tower opposite to IDC, F8 Markaz, Islamabad<strong></p>
+<a href="https://www.google.com/maps/@33.7114139,73.0402412,18z/"> Visit Google map.com for address!</a>
+
+
+
+
+
+
+</html>
+</form>
+</body>
+</html>

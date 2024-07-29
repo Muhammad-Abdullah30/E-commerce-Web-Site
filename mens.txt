@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="mens.css">
+<head>
+<body>
+<h3>Free delivery on order Rs:5000 or above</h3>
+<h1>Men's collection</h1>
+<img src="m1.jpg" alt="m1" class="center">
+<p style="font-size:150%;text-align:center;font-family:timesnewroman;background:black;color:white;">M1: Price Rs 9000</p>
+<img src="m2.jpg" alt="m2" class="center">
+<p style="font-size:150%;text-align:center;font-family:timesnewroman;background:black;color:white;">M2: Price Rs 4500</p>
+<img src="m3.jpg" alt="m3" class="center">
+<p style="font-size:150%;text-align:center;font-family:timesnewroman;background:black;color:white;">M3: Price Rs 7000</p>
+<img src="m4.jpg" alt="m4" class="center">
+<p style="font-size:150%;text-align:center;font-family:timesnewroman;background:black;color:white;">M4: Price Rs 6000</p>
+<h3 style="text-align:center;font-size:200%;font-family:timesnewroman;background:grey;color:white;">Contact us</h3>
+<p  style="font-size:100%;font-family:timesnewroman;color:black"><strong>Mail:     abcd@gmail.com<strong></p>
+<p  style="font-size:100%;font-family:timesnewroman;color:black"><strong>Phone:     03XX-XXXXXXX <strong></p>
+<p  style="font-size:100%;font-family:timesnewroman;color:black"><strong>Address:     4th floor law consultant tower opposite to IDC, F8 Markaz, Islamabad<strong></p>
+<a href="https://www.google.com/maps/@33.7114139,73.0402412,18z/"> Visit Google map.com for address!</a>
+
+</body>
+</html>
